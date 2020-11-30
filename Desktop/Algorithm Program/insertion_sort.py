@@ -1,9 +1,9 @@
-#!/usr/bin/env python3
+#python3
 # -*- coding: utf-8 -*-
 """
 Created on Sat Nov 21 21:17:05 2020
 
-@author: onizukaryuya
+@author: ryuya11235
 """
 
 '''
